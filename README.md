@@ -1,77 +1,258 @@
-# 👋 ¡Hola! Soy Gustavo
+# 👋 Hola, soy Gustavo Faccendini
 
-**Analista Programador · Fullstack Dev**  
-Me enfoco en crear **sistemas web y móviles modernos, modulares y escalables**, usando principalmente **Symfony**, **React**, **SvelteKit** y ecosistemas relacionados.
+### Analista Programador · Fullstack Developer
+
+Soy desarrollador de software enfocado en crear **aplicaciones web modernas, modulares, mantenibles y escalables**.
+
+Me gusta trabajar en proyectos completos, participando desde el **análisis del problema y diseño de la arquitectura**, hasta la implementación del **frontend, backend, base de datos, seguridad, testing y despliegue**.
+
+📍 Posadas, Misiones · Argentina
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🧠 Perfil: Analista Programador con foco en **arquitecturas limpias**, buenas prácticas y código mantenible.
-- 🏙️ Vivo en **Posadas, Misiones – Argentina**.
-- 🧩 Me gustan los proyectos donde hay que **diseñar sistemas completos**: desde la base de datos hasta la UX.
-- ♻️ Siempre buscando soluciones **reutilizables, seguras y escalables**.
-- 📚 Estoy en mejora continua: nuevas tecnologías, patrones de arquitectura, testing y buenas prácticas.
+- 💻 Analista Programador y desarrollador Fullstack.
+- 🧠 Interesado en arquitectura de software, modularización y buenas prácticas.
+- 🏗️ Me gusta diseñar sistemas completos y no solamente interfaces.
+- 🗄️ Trabajo con bases de datos relacionales y modelado de datos.
+- 🔐 Busco desarrollar aplicaciones seguras, mantenibles y preparadas para crecer.
+- 📱 Priorizo interfaces **responsive y mobile-first**.
+- 🧪 Estoy profundizando en testing, automatización y calidad de software.
+- 🚀 Interesado en CI/CD, Docker y despliegues automatizados.
+- 📚 Aprendiendo constantemente nuevas tecnologías, patrones y herramientas.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+# 🛠️ Stack tecnológico
 
-### Backend
-- 🐘 **PHP / Symfony**
-- 🟦 **Node.js** (APIs REST, servicios backend)
-- 🗄️ **PostgreSQL / MySQL**
-- 🐳 **Docker** (entornos reproducibles)
+## Frontend
 
-### Frontend
-- ⚛️ **React**
-- 🧡 **Svelte / SvelteKit**
-- 🎨 **HTML5 / CSS3 / Tailwind / Bootstrap**
-- 🧩 SPA, componentes reutilizables, diseño responsive
+- **Svelte / SvelteKit**
+- **React**
+- **TypeScript**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
+- **Bootstrap**
 
-### Otros
-- 🧰 **Git / GitHub**
-- 📦 Arquitecturas modulares y escalables
-- 🔐 Seguridad básica en aplicaciones web
-- ✅ Validación y manejo de formularios
-- 📱 Diseño pensando en **mobile-first**
+Trabajo principalmente con:
 
----
-
-## 📌 Proyectos destacados
-
-Algunos de los proyectos donde estuve trabajando:
-
-- 🍔 **Burger Shop** – App web para gestionar una hamburguesería (pedidos, productos, etc.).  
-  `TypeScript · React / Frontend`  
-  👉 Repo: [burger-shop](https://github.com/gustavo180591/burger-shop)
-
-- 🎣 **Pesca** – Proyecto en TypeScript orientado a práctica de frontend y lógica de negocio.  
-  👉 Repo: [pesca](https://github.com/gustavo180591/pesca)
-
+- Componentes reutilizables
+- Diseño responsive
+- Mobile-first
+- SSR
+- SPA
+- Manejo de formularios
+- Validaciones
+- Interfaces administrativas
+- Catálogos y sistemas de gestión
 
 ---
 
-## 📚 Lo que estoy aprendiendo/mejorando
+## Backend
 
-- 🧱 Mejores prácticas en **arquitecturas limpias** (DDD, modularización, capas bien definidas).
-- 🌐 Desarrollo **fullstack con SvelteKit** (SSR, APIs, auth, etc.).
-- 🧪 Testing (PHPUnit, Jest/Vitest según el stack).
-- 📦 CI/CD y despliegues más automatizados.
+- **PHP / Symfony**
+- **Node.js**
+- **SvelteKit Server**
+- **APIs REST**
+- **Prisma ORM**
+
+Con foco en:
+
+- Arquitecturas modulares
+- Separación de responsabilidades
+- Validación de datos
+- Autenticación y autorización
+- Manejo de errores
+- Reglas de negocio
+- Seguridad
+- Integración frontend/backend
 
 ---
 
-## 🤝 ¿En qué puedo ayudarte?
+## Bases de datos
 
-- Diseño y desarrollo de **sistemas completos** (backend + frontend + base de datos).
-- Transformar ideas en **MVP funcionales**.
-- Refactorizar y modernizar sistemas existentes.
-- Desarrollo de **paneles administrativos**, dashboards y sistemas de gestión.
+- **PostgreSQL**
+- **MySQL**
+
+Experiencia trabajando con:
+
+- Modelado relacional
+- Relaciones
+- Constraints
+- Índices
+- Migraciones
+- Integridad de datos
+- Consultas y optimización
 
 ---
 
-## 📫 Contacto
+## DevOps y herramientas
 
-- 💼 LinkedIn: [Gustavo Faccendini](https://www.linkedin.com/in/gustavo-faccendini-9a209816b/)
+- 🐳 **Docker**
+- 🐙 **Git**
+- 🌐 **GitHub**
+- 🐧 **Linux / Ubuntu**
+- 📦 **npm**
+- ⚡ **Vite**
 
-> Siempre aprendiendo, siempre creando. 🚀
+Actualmente también estoy mejorando mis conocimientos en:
+
+- CI/CD
+- Automatización de despliegues
+- Testing automatizado
+- Backups y restauración
+- Monitoreo
+- Deploy de aplicaciones web
+
+---
+
+# 🧱 Cómo me gusta desarrollar
+
+Intento que mis proyectos sigan principios claros:
+
+```text
+Comprender el problema
+        ↓
+Diseñar la solución
+        ↓
+Modelar los datos
+        ↓
+Definir arquitectura
+        ↓
+Implementar por módulos
+        ↓
+Validar
+        ↓
+Testear
+        ↓
+Revisar
+        ↓
+Desplegar
+        ↓
+Mejorar
+```
+
+Priorizo especialmente:
+
+- Código claro y legible
+- Componentes reutilizables
+- Responsabilidades bien separadas
+- Arquitecturas modulares
+- Evitar duplicación de lógica
+- Validación tanto en frontend como backend
+- Seguridad desde el diseño
+- UX clara
+- Manejo correcto de errores
+- Git como parte del flujo de desarrollo
+
+---
+
+# 📌 Algunos proyectos
+
+## 🍔 Burger Shop
+
+Aplicación web orientada a la gestión de una hamburguesería.
+
+Tecnologías:
+
+`TypeScript` · `React`
+
+👉 [Ver repositorio](https://github.com/gustavo180591/burger-shop)
+
+---
+
+## 🎣 Pesca
+
+Proyecto desarrollado con TypeScript para practicar arquitectura frontend, lógica de negocio y desarrollo de interfaces.
+
+Tecnologías:
+
+`TypeScript`
+
+👉 [Ver repositorio](https://github.com/gustavo180591/pesca)
+
+---
+
+# 📚 Actualmente profundizando en
+
+### 🧱 Arquitectura de software
+
+- Clean Architecture
+- DDD
+- Arquitecturas por capas
+- Modularización
+- Separación de responsabilidades
+- Diseño orientado al dominio
+
+### 🧡 SvelteKit
+
+- Svelte 5
+- SvelteKit
+- SSR
+- Server Actions
+- APIs
+- Autenticación
+- PostgreSQL
+- Prisma
+- Aplicaciones Fullstack
+
+### 🧪 Testing
+
+- Vitest
+- Jest
+- PHPUnit
+- Testing de integración
+- Testing End-to-End
+
+### 🚀 DevOps
+
+- Docker
+- CI/CD
+- Automatización
+- Deploy
+- Backups
+- Monitoreo
+
+---
+
+# 💡 Qué tipo de proyectos me interesan
+
+Me interesan especialmente sistemas como:
+
+- 🛒 E-commerce
+- 📦 Sistemas de gestión
+- 📊 Dashboards
+- 🧑‍💼 Paneles administrativos
+- 🏪 Sistemas para comercios
+- 📱 Aplicaciones web responsive
+- 🌐 Plataformas y marketplaces
+- 📋 Sistemas internos para empresas
+- 🔗 APIs y servicios backend
+- ⚙️ Automatización de procesos
+
+---
+
+# 🎯 Mi objetivo
+
+Seguir creciendo como desarrollador Fullstack y construir software que no solamente **funcione**, sino que también sea:
+
+**mantenible · modular · seguro · escalable · entendible**
+
+---
+
+# 📫 Contacto
+
+### LinkedIn
+
+💼 [Gustavo Faccendini](https://www.linkedin.com/in/gustavo-faccendini-9a209816b/)
+
+### GitHub
+
+🐙 [@gustavo180591](https://github.com/gustavo180591)
+
+---
+
+> **Siempre aprendiendo. Siempre construyendo.** 🚀
