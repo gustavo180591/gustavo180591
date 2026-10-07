@@ -150,30 +150,47 @@ Priorizo especialmente:
 
 ---
 
-# 📌 Algunos proyectos
+# 📌 Proyectos destacados
 
-## 🍔 Burger Shop
+## 🎓 Sistema Freire
 
-Aplicación web orientada a la gestión de una hamburguesería.
+Sistema integral de **gestión académica e institucional**, desarrollado para administrar alumnos, docentes, carreras, materias, evaluaciones, asistencias, documentación, pagos y otros procesos administrativos.
 
-Tecnologías:
+Incluye autenticación, roles y permisos, auditoría, gestión académica, documentación digital y diferentes módulos administrativos.
 
-`TypeScript` · `React`
+**Tecnologías:**
 
-👉 [Ver repositorio](https://github.com/gustavo180591/burger-shop)
+`SvelteKit` · `Svelte 5` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Docker` · `Vitest` · `Playwright`
+
+👉 [Ver repositorio](https://github.com/gustavo180591/sistema-freire)
 
 ---
 
-## 🎣 Pesca
+## 📱 Galarza Store
 
-Proyecto desarrollado con TypeScript para practicar arquitectura frontend, lógica de negocio y desarrollo de interfaces.
+Plataforma comercial integral desarrollada para un negocio de **venta y servicio técnico de celulares**, combinando catálogo público, administración interna y herramientas comerciales.
 
-Tecnologías:
+El sistema incluye gestión de productos y stock, clientes, ventas, CRM, Plan Canje, cotización de reparaciones, diagnóstico online, garantías digitales, consultas por WhatsApp, vendedores, auditoría y administración del negocio.
 
-`TypeScript`
+**Tecnologías:**
 
-👉 [Ver repositorio](https://github.com/gustavo180591/pesca)
+`SvelteKit` · `Svelte 5` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Docker` · `Vitest` · `Playwright`
 
+🔒 Repositorio privado
+
+---
+
+## 📄 Registro de Oficios
+
+Sistema web para la **gestión y seguimiento de oficios administrativos**, permitiendo centralizar documentos, responsables, destinatarios, estados y comunicaciones relacionadas.
+
+Incluye gestión completa de oficios, carga de documentación, búsqueda y filtrado, autenticación, roles y permisos, seguimiento de estados, comentarios, notificaciones y funcionalidades administrativas.
+
+**Tecnologías:**
+
+`PHP 8.2` · `Symfony 7.1` · `Doctrine ORM` · `MySQL` · `Twig` · `Bootstrap` · `Stimulus` · `Turbo` · `Docker` · `PHPUnit`
+
+👉 [Ver repositorio](https://github.com/gustavo180591/registrooficio)
 ---
 
 # 📚 Actualmente profundizando en
