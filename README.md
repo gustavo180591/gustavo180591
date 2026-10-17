@@ -63,6 +63,11 @@ Plataforma integral para un comercio de celulares: catálogo, ventas, inventario
 
 **Código privado por tratarse de un proyecto comercial.**
 
+### ❄️ [Oso Polar — Sistema de Turnos](https://github.com/gustavo180591/oso-polar-turnos)
+Sistema de **solicitud y administración de turnos para servicios técnicos**, con catálogo público, agenda, clientes, equipos y validaciones de disponibilidad.
+
+**Stack:** SvelteKit · Svelte 5 · TypeScript · PostgreSQL · Prisma · Docker
+
 ## 🧩 Mi forma de trabajar
 
 - **Análisis antes de programar:** comprender el problema y definir reglas de negocio.
