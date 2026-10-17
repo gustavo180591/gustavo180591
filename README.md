@@ -1,275 +1,86 @@
-# 👋 Hola, soy Gustavo Faccendini
+# ¡Hola! Soy Gustavo Faccendini 👋
 
-### Analista Programador · Fullstack Developer
+**Analista Programador · Full Stack Developer**
 
-Soy desarrollador de software enfocado en crear **aplicaciones web modernas, modulares, mantenibles y escalables**.
+📍 Posadas, Misiones, Argentina
 
-Me gusta trabajar en proyectos completos, participando desde el **análisis del problema y diseño de la arquitectura**, hasta la implementación del **frontend, backend, base de datos, seguridad, testing y despliegue**.
+Diseño y desarrollo **aplicaciones web completas** para instituciones, comercios y emprendimientos. Me involucro en todo el proceso: análisis de requisitos, modelado de datos, arquitectura, frontend, backend, seguridad y despliegue.
 
-📍 Posadas, Misiones · Argentina
+Mi enfoque: **resolver problemas reales con software modular, mantenible y fácil de evolucionar**.
 
----
+## 🛠️ Tecnologías
 
-## 🚀 Sobre mí
+**Frontend**
 
-- 💻 Analista Programador y desarrollador Fullstack.
-- 🧠 Interesado en arquitectura de software, modularización y buenas prácticas.
-- 🏗️ Me gusta diseñar sistemas completos y no solamente interfaces.
-- 🗄️ Trabajo con bases de datos relacionales y modelado de datos.
-- 🔐 Busco desarrollar aplicaciones seguras, mantenibles y preparadas para crecer.
-- 📱 Priorizo interfaces **responsive y mobile-first**.
-- 🧪 Estoy profundizando en testing, automatización y calidad de software.
-- 🚀 Interesado en CI/CD, Docker y despliegues automatizados.
-- 📚 Aprendiendo constantemente nuevas tecnologías, patrones y herramientas.
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Backend y datos**
 
-# 🛠️ Stack tecnológico
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-## Frontend
+**Herramientas y calidad**
 
-- **Svelte / SvelteKit**
-- **React**
-- **TypeScript**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **Tailwind CSS**
-- **Bootstrap**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-Trabajo principalmente con:
+## 🚀 Proyectos destacados
 
-- Componentes reutilizables
-- Diseño responsive
-- Mobile-first
-- SSR
-- SPA
-- Manejo de formularios
-- Validaciones
-- Interfaces administrativas
-- Catálogos y sistemas de gestión
+### 🎓 [Sistema Freire](https://github.com/gustavo180591/sistema-freire)
+Plataforma de **gestión académica e institucional**: alumnos, docentes, materias, asistencia, documentación y procesos administrativos.
 
----
+**Stack:** SvelteKit · Svelte 5 · TypeScript · PostgreSQL · Prisma · Docker
 
-## Backend
+### 📄 [Registro de Oficios](https://github.com/gustavo180591/registrooficio)
+Sistema para **administrar y dar seguimiento a oficios y documentación**, con usuarios, permisos, responsables, estados y búsquedas.
 
-- **PHP / Symfony**
-- **Node.js**
-- **SvelteKit Server**
-- **APIs REST**
-- **Prisma ORM**
+**Stack:** PHP · Symfony · Doctrine · MySQL · Twig · Docker
 
-Con foco en:
+### 📊 [SIDEPP Digital](https://github.com/gustavo180591/SIDEPP-Digital)
+Sistema de **gestión y análisis de aportes**, con procesamiento de documentación PDF, instituciones, afiliados y trazabilidad de información.
 
-- Arquitecturas modulares
-- Separación de responsabilidades
-- Validación de datos
-- Autenticación y autorización
-- Manejo de errores
-- Reglas de negocio
-- Seguridad
-- Integración frontend/backend
+**Stack:** SvelteKit · TypeScript · PostgreSQL · Prisma · Docker
 
----
+### 🍽️ [Nuestra Esencia](https://github.com/gustavo180591/nuestra-esencia)
+Plataforma de gestión para un **local gastronómico**, orientada a ventas, productos, inventario, proveedores y procesos operativos.
 
-## Bases de datos
+**Stack:** SvelteKit · PostgreSQL · Prisma · Tailwind CSS
 
-- **PostgreSQL**
-- **MySQL**
+### 🛒 Galarza Store — proyecto comercial privado
+Plataforma integral para un comercio de celulares: catálogo, ventas, inventario, consultas, garantías y herramientas de gestión.
 
-Experiencia trabajando con:
+**Código privado por tratarse de un proyecto comercial.**
 
-- Modelado relacional
-- Relaciones
-- Constraints
-- Índices
-- Migraciones
-- Integridad de datos
-- Consultas y optimización
+## 🧩 Mi forma de trabajar
+
+- **Análisis antes de programar:** comprender el problema y definir reglas de negocio.
+- **Arquitectura modular:** separar responsabilidades y reutilizar componentes.
+- **Datos confiables:** modelado relacional, validación e integridad.
+- **Calidad y seguridad:** revisar cambios, contemplar casos límite y probar lo importante.
+- **Experiencia de usuario:** interfaces responsive, accesibles y claras.
+- **Entrega y mantenimiento:** Git, Docker, despliegues y evolución continua.
+
+## 📚 En constante aprendizaje
+
+Profundizo en **arquitectura de software, testing automatizado, CI/CD, buenas prácticas de seguridad y optimización de aplicaciones full stack**.
+
+## 📫 Contacto
+
+- 💼 [LinkedIn — Gustavo Faccendini](https://www.linkedin.com/in/gustavo-faccendini-9a209816b/)
+- 🐙 [GitHub — @gustavo180591](https://github.com/gustavo180591)
 
 ---
 
-## DevOps y herramientas
-
-- 🐳 **Docker**
-- 🐙 **Git**
-- 🌐 **GitHub**
-- 🐧 **Linux / Ubuntu**
-- 📦 **npm**
-- ⚡ **Vite**
-
-Actualmente también estoy mejorando mis conocimientos en:
-
-- CI/CD
-- Automatización de despliegues
-- Testing automatizado
-- Backups y restauración
-- Monitoreo
-- Deploy de aplicaciones web
-
----
-
-# 🧱 Cómo me gusta desarrollar
-
-Intento que mis proyectos sigan principios claros:
-
-```text
-Comprender el problema
-        ↓
-Diseñar la solución
-        ↓
-Modelar los datos
-        ↓
-Definir arquitectura
-        ↓
-Implementar por módulos
-        ↓
-Validar
-        ↓
-Testear
-        ↓
-Revisar
-        ↓
-Desplegar
-        ↓
-Mejorar
-```
-
-Priorizo especialmente:
-
-- Código claro y legible
-- Componentes reutilizables
-- Responsabilidades bien separadas
-- Arquitecturas modulares
-- Evitar duplicación de lógica
-- Validación tanto en frontend como backend
-- Seguridad desde el diseño
-- UX clara
-- Manejo correcto de errores
-- Git como parte del flujo de desarrollo
-
----
-
-# 📌 Proyectos destacados
-
-## 🎓 Sistema Freire
-
-Sistema integral de **gestión académica e institucional**, desarrollado para administrar alumnos, docentes, carreras, materias, evaluaciones, asistencias, documentación, pagos y otros procesos administrativos.
-
-Incluye autenticación, roles y permisos, auditoría, gestión académica, documentación digital y diferentes módulos administrativos.
-
-**Tecnologías:**
-
-`SvelteKit` · `Svelte 5` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Docker` · `Vitest` · `Playwright`
-
-👉 [Ver repositorio](https://github.com/gustavo180591/sistema-freire)
-
----
-
-## 📱 Galarza Store
-
-Plataforma comercial integral desarrollada para un negocio de **venta y servicio técnico de celulares**, combinando catálogo público, administración interna y herramientas comerciales.
-
-El sistema incluye gestión de productos y stock, clientes, ventas, CRM, Plan Canje, cotización de reparaciones, diagnóstico online, garantías digitales, consultas por WhatsApp, vendedores, auditoría y administración del negocio.
-
-**Tecnologías:**
-
-`SvelteKit` · `Svelte 5` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Docker` · `Vitest` · `Playwright`
-
-🔒 Repositorio privado
-
----
-
-## 📄 Registro de Oficios
-
-Sistema web para la **gestión y seguimiento de oficios administrativos**, permitiendo centralizar documentos, responsables, destinatarios, estados y comunicaciones relacionadas.
-
-Incluye gestión completa de oficios, carga de documentación, búsqueda y filtrado, autenticación, roles y permisos, seguimiento de estados, comentarios, notificaciones y funcionalidades administrativas.
-
-**Tecnologías:**
-
-`PHP 8.2` · `Symfony 7.1` · `Doctrine ORM` · `MySQL` · `Twig` · `Bootstrap` · `Stimulus` · `Turbo` · `Docker` · `PHPUnit`
-
-👉 [Ver repositorio](https://github.com/gustavo180591/registrooficio)
----
-
-# 📚 Actualmente profundizando en
-
-### 🧱 Arquitectura de software
-
-- Clean Architecture
-- DDD
-- Arquitecturas por capas
-- Modularización
-- Separación de responsabilidades
-- Diseño orientado al dominio
-
-### 🧡 SvelteKit
-
-- Svelte 5
-- SvelteKit
-- SSR
-- Server Actions
-- APIs
-- Autenticación
-- PostgreSQL
-- Prisma
-- Aplicaciones Fullstack
-
-### 🧪 Testing
-
-- Vitest
-- Jest
-- PHPUnit
-- Testing de integración
-- Testing End-to-End
-
-### 🚀 DevOps
-
-- Docker
-- CI/CD
-- Automatización
-- Deploy
-- Backups
-- Monitoreo
-
----
-
-# 💡 Qué tipo de proyectos me interesan
-
-Me interesan especialmente sistemas como:
-
-- 🛒 E-commerce
-- 📦 Sistemas de gestión
-- 📊 Dashboards
-- 🧑‍💼 Paneles administrativos
-- 🏪 Sistemas para comercios
-- 📱 Aplicaciones web responsive
-- 🌐 Plataformas y marketplaces
-- 📋 Sistemas internos para empresas
-- 🔗 APIs y servicios backend
-- ⚙️ Automatización de procesos
-
----
-
-# 🎯 Mi objetivo
-
-Seguir creciendo como desarrollador Fullstack y construir software que no solamente **funcione**, sino que también sea:
-
-**mantenible · modular · seguro · escalable · entendible**
-
----
-
-# 📫 Contacto
-
-### LinkedIn
-
-💼 [Gustavo Faccendini](https://www.linkedin.com/in/gustavo-faccendini-9a209816b/)
-
-### GitHub
-
-🐙 [@gustavo180591](https://github.com/gustavo180591)
-
----
-
-> **Siempre aprendiendo. Siempre construyendo.** 🚀
+<sub>Construyendo soluciones web útiles, mantenibles y pensadas para crecer.</sub>
