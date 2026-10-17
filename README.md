@@ -49,7 +49,7 @@ Sistema para **administrar y dar seguimiento a oficios y documentación**, con u
 **Stack:** PHP · Symfony · Doctrine · MySQL · Twig · Docker
 
 ### 📊 [SIDEPP Digital](https://github.com/gustavo180591/SIDEPP-Digital)
-Sistema de **gestión y análisis de aportes**, con procesamiento de documentación PDF, instituciones, afiliados y trazabilidad de información.
+Sistema integral de **gestión académica, administrativa y financiera** desarrollado con SvelteKit, TypeScript y PostgreSQL.
 
 **Stack:** SvelteKit · TypeScript · PostgreSQL · Prisma · Docker
 
